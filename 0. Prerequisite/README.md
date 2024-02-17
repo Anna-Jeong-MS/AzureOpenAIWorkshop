@@ -30,7 +30,7 @@ git clone https://github.com/Anna-Jeong-MS/AzureBasicWorkshop.git
 
 ### 라이브러리 설치
 
-1. 첫번째 블록의 아래 두 줄을 주석 해제하여 실행합니다.
+1. 첫번째 블록의 아래 세 줄을 주석 해제하여 실행합니다.
     
     (윈도우 사용자의 경우 ! 대신 %를 사용합니다.)
     
