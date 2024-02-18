@@ -28,8 +28,8 @@
     
     ![Untitled](images/image3.png)
     
-    - Select a model : gpt-35-turbo
-    - Model version : Auto-update to default
+    - Select a model : gpt-35-turbo-16k
+    - Model version : 0613 (Default)
     - Deployment name : gpt-35-turbo
 
 ### 음성 서비스 리소스 생성
@@ -43,6 +43,6 @@
     
     - 구독 : 구독 선택
     - 리소스 그룹 : (앞서 생성한) openai-workshop-rg
-    - 지역 : East US
+    - 지역 : Korea Central
     - 이름 : speech-service-<alias>
     - 가격 책정 계층 : Free F0
