@@ -45,3 +45,4 @@ ChatGPT의 **Function Calling** 기능을 활용하면, 아이언맨의 자비
 
 - **Income Statement Analysis:**
    - https://github.com/jakeatmsft/AzureOpenAIExamples/blob/main/Examples/FormRecognizer/Balance_sheet_analysis.ipynb 
+
