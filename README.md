@@ -2,7 +2,9 @@
 
 ## Healthcare Innovation Forum
 
+<center>
 ![Untitled](image.png)
+</center>
 
 GPT(Generative Pre-trained Transformer)는 OpenAI에서 개발한 LLM(Large Language Model)입니다. 트랜스포머 아키텍처 기반의 딥러닝 모델입니다. ChatGPT의 **Function Calling** 기능을 활용하면, 아이언맨의 자비스와 같은 인공지능 비서를 만들 수 있습니다. 약품의 업체명, 제품명 등을 통해 서비스에 질의하면 복약 안내문을 응답하는 챗봇 서비스를 만듭니다.
 
