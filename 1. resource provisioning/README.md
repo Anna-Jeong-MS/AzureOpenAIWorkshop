@@ -30,7 +30,7 @@
     
     - Select a model : gpt-35-turbo-16k
     - Model version : 0613 (Default)
-    - Deployment name : gpt-35-turbo
+    - Deployment name : gpt-35-turbo-16k
 
 ### 음성 서비스 리소스 생성
 
