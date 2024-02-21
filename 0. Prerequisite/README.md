@@ -13,7 +13,7 @@ Visual Studio Code 설치
 1. 로컬에서 PowerShell 혹은 터미널을 실행시켜 아래 명령어를 입력합니다.
 
 ```bash
-git clone https://github.com/Anna-Jeong-MS/AzureBasicWorkshop.git
+https://github.com/Anna-Jeong-MS/AzureOpenAIWorkshop.git
 ```
 
 1. Visual Studio Code에서 File > Open Folder 메뉴를 선택하고 클론한 디렉토리를 선택하여 열어줍니다.
